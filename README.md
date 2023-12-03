@@ -7,3 +7,5 @@
 https://cygg.mybooty165.repl.co/
 
 https://ngg-cybriagg.mybooty165.repl.co/
+
+https://nowgg-cybriagg.mybooty165.repl.co/
