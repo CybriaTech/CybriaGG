@@ -4,10 +4,6 @@
 
 ## Active Links
 
-https://cygg.mybooty165.repl.co/
-
-https://ngg-cybriagg.mybooty165.repl.co/
-
-https://nowgg-cybriagg.mybooty165.repl.co/
+### None
 
 <blockquote style="color: red;">Disclaimer! This Project is huge so it's compressed into a ZIP file. If you wanna use it, extract the ZIP file and import the contents in it into another service like Replit!</blockquote>
