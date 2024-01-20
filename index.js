@@ -5,10 +5,10 @@ const path = require('path');
 
 const app = express();
 
-const targetURL = 'https://educationbluesky.com'; // Link where the NowGG roblox gets proxied as CybriaGG <3
+const nggUrl = 'https://educationbluesky.com'; // Link where the NowGG roblox gets proxied as CybriaGG <3
 
 const proxy = httpProxy.createProxyServer({
-  target: targetURL,
+  target: nggUrl,
   changeOrigin: true,
 });
 
