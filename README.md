@@ -4,8 +4,6 @@
 </kbd>
 </p>
 
-<h1 align="center">CybriaGG</h1>
-
 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 
 ## Active Links
