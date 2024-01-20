@@ -8,6 +8,8 @@
 
 ## Active Links
 
-### None
+https://04d308ea-b3a0-40b5-9212-f3eadc1eeeac-00-1t6oww0umjwd7.worf.replit.dev/ - Testing Link
+
+https://cygg.cybriatech.dev - Official Link
 
 > ### I'm keeping this and every repo that dosen't have any sensetive information Open Sourced because I don't like it when people keep repos secret. W?
