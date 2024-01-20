@@ -1,4 +1,10 @@
-# CybriaGG
+<p align="center">
+<kbd>
+<img width="150px" src="/public/cygg-logo-invert.png">
+</kbd>
+</p>
+
+<h1 align="center">CybriaGG</h1>
 
 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 
