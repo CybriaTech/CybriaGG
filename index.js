@@ -13,16 +13,16 @@ if (cluster.isMaster) {
   }
 
   cluster.on('exit', (worker, code, signal) => {
-    console.log(`Worker ${worker.process.pid} died`);
+    console.log(`Slave ${worker.process.pid} died`);
     cluster.fork();
   });
 } else {
   const app = express();
 
-  const targetURL = 'https://educationbluesky.com'; // The Link Where Now.GG Roblox Gets Proxied
+  const nggurl = 'https://educationbluesky.com';
 
   const proxy = httpProxy.createProxyServer({
-    target: targetURL,
+    target: nggurl,
     changeOrigin: true,
   });
 
@@ -38,14 +38,6 @@ if (cluster.isMaster) {
     res.setHeader('X-XSS-Protection', '1; mode=block');
     res.setHeader('Content-Type', 'text/html');
 
-    res.write('<html><head>');
-
-    res.write('<title>CybriaGG | Play Roblox Online</title>'); // Dosent work :(( i fix it soon
-
-    res.write('<link rel="icon" href="/public/cygg-invert-32x32.png">'); // Dosent work :(( i fix it soon
-
-    res.write('</head><body>');
-
     next();
   });
 
@@ -57,10 +49,10 @@ if (cluster.isMaster) {
   });
 
   process.on('unhandledRejection', (reason, promise) => {
-    console.error(`Worker ${process.pid} detected unhandled rejections:`, promise, 'reason:', reason);
+    console.error(`Slave ${process.pid} detected unhandled rejections:`, promise, 'reason:', reason);
   });
 
   process.on('uncaughtException', (err) => {
-    console.error(`Worker ${process.pid} uncaught exception:`, err);
+    console.error(`Slave ${process.pid} uncaught exception:`, err);
   });
 }
