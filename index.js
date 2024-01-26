@@ -43,7 +43,7 @@ if (cluster.isMaster) {
 
   const server = http.createServer(app);
 
-  const PORT = 80;
+  const PORT = 8080;
   server.listen(PORT, () => {
     console.log(`CybriaGG Slave ${process.pid} has been successfully run! On Port ${PORT}`);
   });
