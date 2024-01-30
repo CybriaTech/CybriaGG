@@ -6,6 +6,10 @@
 
 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 
+> [!WARNING]
+> Do not deploy this to Vercel, Netlify, Github Pages, Cloudflare Pages or any Static web hosting services, they don't support Node.js
+> It's best to use apps like Codesandbox, Replit, Render or others.
+
 ## Active Links
 
 https://04d308ea-b3a0-40b5-9212-f3eadc1eeeac-00-1t6oww0umjwd7.worf.replit.dev/ - Testing Link, Regularly closes
