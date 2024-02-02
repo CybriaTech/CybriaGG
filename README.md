@@ -20,4 +20,6 @@ https://d365kz-8080.csb.app/ - Official Link, Rarely closes
 
 https://cygg.onrender.com/ - Official Link, May Shut Down At Times
 
+https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
+
 > ### I'm keeping this and every repo that dosen't have any sensetive information Open Sourced because I don't like it when people keep repos secret. W?
