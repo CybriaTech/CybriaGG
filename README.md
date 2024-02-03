@@ -10,6 +10,14 @@
 > Do not deploy this to Vercel, Netlify, Github Pages, Cloudflare Pages or any Static web hosting services, they don't support Node.js
 > It's best to use apps like Codesandbox, Replit, Render or others.
 
+# Deploy
+
+### These are the only apps I know that can successfully deploy CybriaGG
+
+<a href="https://render.com/deploy?repo=https://github.com/CybriaTech/CybriaGG"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/CybriaTech/CybriaGG) ### Due to new Replit policy, this is the least reliable app to deploy to
+
+
 ## Active Links
 
 https://04d308ea-b3a0-40b5-9212-f3eadc1eeeac-00-1t6oww0umjwd7.worf.replit.dev/ - Testing Link, Regularly closes
