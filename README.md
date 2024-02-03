@@ -15,10 +15,8 @@
 ### These are the only apps I know that can successfully deploy CybriaGG
 
 <a href="https://render.com/deploy?repo=https://github.com/CybriaTech/CybriaGG"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
+
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/CybriaTech/CybriaGG)
-
-### Due to new Replit policy, Replit is the least reliable app to deploy to
-
 
 ## Active Links
 
