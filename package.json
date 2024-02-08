@@ -2,9 +2,22 @@
   "dependencies": {
     "cluster": "^0.7.7",
     "express": "^4.18.2",
-    "http": "^0.0.1-security",
     "http-proxy": "^1.18.1",
-    "os": "^0.1.2",
-    "path": "^0.12.7"
-  }
+    "path": "^0.12.7",
+    "pkg": "^5.8.1"
+  },
+  "name": "cybriagg",
+  "description": "CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "keywords": [
+    "roblox",
+    "nowgg"
+  ],
+  "author": "CybriaTech",
+  "license": "ISC"
 }
