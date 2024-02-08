@@ -31,5 +31,3 @@ https://cygg.onrender.com/ - Official Link, May Shut Down At Times
 https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
 
 https://cybriagg.uk - Official Link
-
-> ### I'm keeping this and every repo that dosen't have any sensetive information Open Sourced because I don't like it when people keep repos secret. W?
