@@ -20,7 +20,7 @@ if (cluster.isMaster) {
 } else {
   const app = express();
 
-  const nggurl = 'https://educationbluesky.com';
+  const nggurl = 'https://now.gg';
 
   const proxy = httpProxy.createProxyServer({
     target: nggurl,
