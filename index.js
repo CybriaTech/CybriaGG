@@ -20,16 +20,17 @@ if (cluster.isMaster) {
 } else {
   const app = express();
 
-  const nggurl = 'https://now.gg';
+  const targetUrl = 'https://now.gg';
 
   const proxy = httpProxy.createProxyServer({
-    target: nggurl,
+    target: targetUrl,
     changeOrigin: true,
   });
 
   app.use('/', (req, res) => {
-    console.log(`Requests: ${req.url}`);
-    proxy.web(req, res);
+    const target = url.resolve(targetUrl, req.url);
+    console.log(`Requests: ${req.url} - CYGGed to: ${target}`);
+    proxy.web(req, res, { target });
   });
 
   app.use((req, res, next) => {
