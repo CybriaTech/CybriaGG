@@ -4,6 +4,7 @@ const express = require('express');
 const path = require('path');
 const cluster = require('cluster');
 const numCPUs = require('os').cpus().length;
+const url = require('url');
 
 if (cluster.isMaster) {
   console.log(`Slave ${process.pid} is running`);
@@ -19,7 +20,7 @@ if (cluster.isMaster) {
 } else {
   const app = express();
 
-  const nggurl = 'https://now.gg';
+  const nggurl = 'https://educationbluesky.com';
 
   const proxy = httpProxy.createProxyServer({
     target: nggurl,
@@ -27,7 +28,7 @@ if (cluster.isMaster) {
   });
 
   app.use('/', (req, res) => {
-    console.log(`Incoming Requests: ${req.url}`);
+    console.log(`Requests: ${req.url}`);
     proxy.web(req, res);
   });
 
