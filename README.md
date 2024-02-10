@@ -20,12 +20,6 @@
 
 ## Active Links
 
-https://04d308ea-b3a0-40b5-9212-f3eadc1eeeac-00-1t6oww0umjwd7.worf.replit.dev/ - Testing Link, Regularly closes
-
-https://potential-rotary-phone-5gv5vw9g4wvf757r-8080.app.github.dev/ - Testing & Official Link, May Close Regularly
-
-https://d365kz-8080.csb.app/ - Official Link, Rarely closes
-
 https://cygg.onrender.com/ - Official Link, May Shut Down At Times
 
 https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
