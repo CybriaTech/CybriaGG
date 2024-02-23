@@ -25,3 +25,5 @@ https://cygg.onrender.com/ - Official Link, May Shut Down At Times
 https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
 
 https://cybriagg.uk - Official Link
+
+https://cygg.mooo.com - First FREEDNS
