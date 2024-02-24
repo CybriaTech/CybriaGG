@@ -27,3 +27,5 @@ https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
 https://cybriagg.uk - Official Link
 
 https://cygg.mooo.com - First FREEDNS
+
+https://cygg.deleesportsmedicine.com - Second FreeDNS
