@@ -18,7 +18,7 @@
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/CybriaTech/CybriaGG)
 
-[![Deploy to Vercel](https://vercel.com/button)](https://github.com/CybriaTech/CybriaGG)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCybriaTech%2FCybriaGG)
 
 ## Active Links
 
