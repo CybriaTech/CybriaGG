@@ -10,6 +10,9 @@ const proxy = createProxyMiddleware({
   changeOrigin: true,
   secure: true,
   logLevel: 'debug',
+  router: function(req) {
+    return nggUrl;
+  }
 });
 
 app.use('/', proxy);
