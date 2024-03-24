@@ -4,6 +4,8 @@
 </kbd>
 </p>
 
+## CybriaGG has been patched, Now.GG proxy detection has been enhanced & this project won't be maintained anymore.
+
 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 
 > [!WARNING]
