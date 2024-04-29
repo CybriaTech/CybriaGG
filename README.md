@@ -4,7 +4,7 @@
 </kbd>
 </p>
 
-## CybriaGG has been patched, Now.GG proxy detection has been enhanced & this project won't be maintained anymore.
+## CybriaGG Proxy Detection has been bypassed! We're back online
 
 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 
@@ -24,9 +24,9 @@
 
 ## Active Links
 
-https://cygg.onrender.com/ - Official Link, May Shut Down At Times
+https://cybria-gg-ebon.vercel.app - Official Link
 
-https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
+https://cygg.cybriatech.dev/ - Official CybriaTech Domain
 
 https://cybriagg.uk - Official Link
 
