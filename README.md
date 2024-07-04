@@ -4,7 +4,7 @@
 </kbd>
 </p>
 
-## CybriaGG Proxy Detection has been bypassed! We're back online
+## CybriaGG Proxy is an archive
 
 🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
 
